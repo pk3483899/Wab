@@ -1,1 +1,2 @@
-Hello, this is chapter 2 with some updation	sfjhdjs.ajfhdsdhghksdgh
+Hello, this is chapter 2 with some updation.
+This is the new branch
